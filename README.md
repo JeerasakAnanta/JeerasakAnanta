@@ -7,11 +7,10 @@
 
 ### What doing i now
 - learing on tryhackme : tryhackme profile -> https://tryhackme.com/p/Game
-- 
 
 ### What in future
-[ ] report first bugs
-[ ] working on some company
+- [ ] report first bugs
+- [ ] working on some company
 
 
 ### connection me 
