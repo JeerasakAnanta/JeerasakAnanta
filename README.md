@@ -15,8 +15,8 @@
 
 
 ### connection me 
-tweeter   -> https://twitter.com/GameAnanta
-linkedin  -> https://www.linkedin.com/in/jeerasak-ananta-a1b4231a2/
-mail      -> jeerasakananta@gmail.com
+- tweeter   -> https://twitter.com/GameAnanta
+- linkedin  -> https://www.linkedin.com/in/jeerasak-ananta-a1b4231a2/
+- mail      -> jeerasakananta@gmail.com
 
 Thank you kub
