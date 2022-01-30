@@ -1,21 +1,26 @@
 # > Whoami 
 ### I'm Jeerasak Ananata (Game)
-- I dropped out of college in 3rd year
-- Self-taught Bug Hunter, Security testing and Web development.
+- I dropped out of college in 3rd year from (Chiang Mai University - computer science)
+- f4d5 Self-taught Bug Hunter, Security testing and Web development.
+- Fail in love open source
+- linux lover
 - Love play CTFs
 - I NEED Job  
 
-### What doing i now
+### What doing i now (Self-taught)
 - learing on tryhackme : tryhackme profile -> https://tryhackme.com/p/Game
+- learing web development
+- CTFtime
 
 ### What in future
-- [ ] report first bugs
-- [ ] working on some company
+- [ ]    working on some company
+- [ ] r  Report first bugs
 
 
-### connection me 
-- tweeter   -> https://twitter.com/GameAnanta
-- linkedin  -> https://www.linkedin.com/in/jeerasak-ananta-a1b4231a2/
-- mail      -> jeerasakananta@gmail.com
+### Cnnection me
+- [Mytwitter](https://twitter.com/GameAnanta)
+- [inkedin](https://www.linkedin.com/in/jeerasak-ananta-a1b4231a2/)
+- Mail 
+- ``` jeerasakananta@gmail.com```
 
 Thank you kub
