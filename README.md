@@ -25,8 +25,8 @@ bash scritp
 </details>
 
 ### What in future
-- [ ]    working on some company
-- [ ]    Report first bugs
+- [ ] working on some company
+- [ ] Report first bugs
 
 
 ### Cnnection me
