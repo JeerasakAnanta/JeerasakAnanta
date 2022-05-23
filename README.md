@@ -1,7 +1,7 @@
 # > Whoami 
 ### I'm Jeerasak Ananata (Game)
 - Self-taught Bug Hunter, Security testing and Web development.
-- Fail in love open source
+- love open source
 - linux lover
 - Love play CTFs
 - I NEED Job!  
