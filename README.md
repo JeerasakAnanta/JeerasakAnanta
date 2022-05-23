@@ -24,7 +24,7 @@ bash scritp
 </details>
 
 ### What in future
--[ ] Study Computer Science 
+- [ ] Study Computer Science 
 
 
 
