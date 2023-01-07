@@ -3,8 +3,7 @@
 - Self-taught Bug Hunter, Security testing and Web development.
 - love open source
 - linux lover
-- Love play CTFs
-- I NEED Job!  
+- Love play CTFs 
 
 ### What doing i now (Self-taught)
 - learing on tryhackme : [tryhackmeprofile](https://tryhackme.com/p/Game)
@@ -31,6 +30,5 @@ bash scritp
 ### Cnnection me
 - [Mytwitter](https://twitter.com/GameAnanta)
 - [Linkedin](https://www.linkedin.com/in/jeerasak-ananta-a1b4231a2/)
-- Mail  ``` jeerasakananta@gmail.com```
 
 Thank you krub to read :)
