@@ -1,13 +1,13 @@
 # > Whoami 
 ### I'm Jeerasak Ananata (Game)
-- Self-taught Bug Hunter, Security testing and Web development.
 - love open source
-- linux lover
-- Love play CTFs 
+- Linux lover
+- I love play CTFs
+- - Self-taught Bug Hunter, Security testing, and Web development.
 
-### What doing i now (Self-taught)
-- learing on tryhackme : [tryhackmeprofile](https://tryhackme.com/p/Game)
-- learing web development
+### What doing I now (Self-taught)
+- learning on tryhackme : [tryhackmeprofile](https://tryhackme.com/p/Game)
+- learning web development
 - CTFtime
 
 ### Tech Stack
@@ -17,13 +17,14 @@
 <p >
 c++
 java
-python
-bash scritp
+Python
+bash script
 </p>
 </details>
 
 ### What in future
-- [ ] Study Computer Science 
+- [ ] Study Computer Science (2022-2026)
+- [ ] 
 
 
 
