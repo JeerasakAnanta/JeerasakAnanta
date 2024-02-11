@@ -32,4 +32,4 @@ bash script
 - [Mytwitter](https://twitter.com/GameAnanta)
 - [Linkedin](https://www.linkedin.com/in/jeerasak-ananta-a1b4231a2/)
 
-Thank you krub to read :)
+Thank you krub for reading :)
