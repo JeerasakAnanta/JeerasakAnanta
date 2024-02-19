@@ -1,16 +1,15 @@
 # $ Whoami 
 ###  🔱 I'm Jeerasak Ananata (Game)
+- Student computer Science [RMUTL NAN ] (https://nan.rmutl.ac.th/)
 - Software Development
 - love Open Source
 - Linux lover
-- I love play CTFs
-  - Self-taught Bug Hunter, Security testing, and Web development.
-
-### What doing I now (Self-taught)
+- CTFs player
+-  
+### 🧑‍💻What doing I now  
 - learning on tryhackme : [tryhackmeprofile] (https://tryhackme.com/p/Game)
 - learning web development
-- CTFtime
-
+- 
 
 ### 📚 Tech Stack
 
@@ -26,7 +25,7 @@
 
 ### 🔮 What in future
 - [ ] Study Computer Science (2022-2026)
-- [ ] Woring in software development   
+- [ ] Working in software development   
 
 ### 📩 Cnnection me
 - [Mail](jeerasakananta@gmail.com)
