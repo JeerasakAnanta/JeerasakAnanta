@@ -22,7 +22,7 @@
 ### 🔮 What in future
 - [ ] Study Computer Science (2022-2026)
 - [ ] Working in software development   
-### 📩 Cnnection me
+### 📩 Connection me
 - [Mail](jeerasakananta@gmail.com)
 - [Linkedin](https://www.linkedin.com/in/jeerasak-ananta-a1b4231a2/)
 - [medium](https://medium.com/@jeerasakananta_1762/about)
