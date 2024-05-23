@@ -2,7 +2,7 @@
 
 ##  🔱 I'm Jeerasak Ananata (Game)
 - 🧑 Student computer Science [CS RMUTL NAN](https://nan.rmutl.ac.th/)
-- 👨‍💻 For fun [Leet Code](https://leetcode.com/_JeerasaK_/)
+- 👨‍💻 For fun [Leet Code](https://tryhackme.com/)
 - 🚩 CTFs player [TryHackMe](https://leetcode.com/_JeerasaK_/)
 - 🐧 Linux lover 
 
@@ -11,7 +11,7 @@
 
 ## 🧑‍💻What Doing I now  
 - 🤖 Learning anything with Machine Learning 
-- 💻 Studying computer Science 
+- 💻 Studying Computer Science 
   
 ## 📚 Tech Stack & Skills
 
