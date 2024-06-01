@@ -5,6 +5,7 @@
 - 👨‍💻 For fun [Leet Code](https://tryhackme.com/)
 - 🚩 CTFs player [TryHackMe](https://leetcode.com/_JeerasaK_/)
 - 🐧 Linux lover 
+- Learning Machining 
 
 ![My Skills](https://skillicons.dev/icons?i=python,cpp,js,java,php,linux,anaconda,pytorch)
 
