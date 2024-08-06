@@ -1,7 +1,7 @@
 # $ Whoami 
 
 ##  🔱 I'm Jeerasak Ananata (Game)
-- 2023 - Present 🧑Student computer Science [CS RMUTL NAN](https://nan.rmutl.ac.th/)
+- 2022 - Present 🧑Student computer Science [CS RMUTL NAN](https://nan.rmutl.ac.th/)
 - 2024 - SuperAI Engineer Season 4
 - 2024 - Co-ops and internships @Bank for Agriculture and Agricultural Co-operatives ([BAAC](https://www.baac.or.th/en/))
 
