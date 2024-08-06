@@ -1,23 +1,22 @@
 # $ Whoami 
 
 ##  🔱 I'm Jeerasak Ananata (Game)
-- 🧑 Student computer Science [CS RMUTL NAN](https://nan.rmutl.ac.th/)
+- 2023 - Present 🧑Student computer Science [CS RMUTL NAN](https://nan.rmutl.ac.th/)
+- 2024 - SuperAI Engineer Season 4
+- 2024 - Co-ops and internships @Bank for Agriculture and Agricultural Co-operatives ([BAAC](https://www.baac.or.th/en/))
+
+## 🧑‍💻What Doing I now
+- 💻 Studying Computer Science
 - 👨‍💻 For fun [Leet Code](https://tryhackme.com/)
 - 🚩 CTFs player [TryHackMe](https://leetcode.com/_JeerasaK_/)
-- 🐧 Linux lover 
-- Learning Machining 
+- 🐧 Linux lover
+- 🤖 Learning anything with Machine Learning
 
-![My Skills](https://skillicons.dev/icons?i=python,cpp,js,java,php,linux,anaconda,pytorch)
-
-
-## 🧑‍💻What Doing I now  
-- 🤖 Learning anything with Machine Learning 
-- 💻 Studying Computer Science 
   
 ## 📚 Tech Stack & Skills
 
 <details>
-<summary>Programming languages</summary>
+<summary>👨‍💻Programming languages</summary>
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -28,7 +27,7 @@
 </details>
 
 <details>
-<summary>Frontend Development</summary>
+<summary>🪟 Frontend Development</summary>
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -37,7 +36,7 @@
 </details>
 
 <details>
-<summary>Backend Development</summary>
+<summary>☠️ Backend Development</summary>
 
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
@@ -45,7 +44,7 @@
 </details>
 
 <details>
-<summary>AI & ML</summary>
+<summary>🤖 AI & ML</summary>
 
 ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
@@ -58,19 +57,22 @@
 </details>
 
 <details>
-<summary>Dev Tools</summary>
+<summary>🐥Dev Tools</summary>
 
 ![My Skills](https://skillicons.dev/icons?i=git,github,gitlab,linux,ubuntu,neovim,raspberrypi,arduino)
 
 
 </details>
 
+## 🐥 MySkills 
+![My Skills](https://skillicons.dev/icons?i=python,linux,cpp,js,java,php,anaconda)
+
 ## 🔮 What in future
 - [ ] Study Computer Science (2022-2026)
 - [ ] Working in ~~software development~~ AI&ML roles
 
 ## 📩 Connection me
-- 📩 Mail : jeerasakananta@gmail.com
+- 📩 jeerasakananta@gmail.com
 - 🔗 [Linkedin](https://www.linkedin.com/in/jeerasak-ananta-a1b4231a2/)
 - 📖 [medium](https://medium.com/@jeerasakananta_1762/about)
 
