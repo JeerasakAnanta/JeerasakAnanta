@@ -1,9 +1,12 @@
-# $  Hey Theye  
+# $  Hey There  
 ##  🔱 Whoami
- - I'm Jeerasak Ananta (he/they) : I'm a Computer Science student.
+ - I'm Jeerasak Ananta (he/they): I'm a Computer Science student.
   
 ![My Skills](https://skillicons.dev/icons?i=python,linux,bash,cpp,js,java,react,vite,tailwind,docker,arch)
-    
+
+## 0X7E4
+<img src="https://tryhackme-badges.s3.amazonaws.com/Game.png" alt="Your Image Badge" />
+
 ## Time Lime
 - 2022 - Present 🧑Student computer Science [CS RMUTL NAN](https://nan.rmutl.ac.th/)
 - 2024 - SuperAI Engineer Season 4 [SS4](https://superai.aiat.or.th/2022/hall-of-fame-2022/)
@@ -74,4 +77,5 @@
 Thank you krub for reading :) 💯💪
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JeerasakAnanta)](https://github.com/JeerasakAnanta/github-readme-stats)
+
 
