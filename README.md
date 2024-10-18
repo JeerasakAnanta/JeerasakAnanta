@@ -28,7 +28,7 @@
 </details>
 
 <details>
-<summary>🪟 Frontend Development</summary>
+<summary> 🐥 Frontend Development</summary>
 
 ![My Skills](https://skillicons.dev/icons?i=react,tailwind,)
 
