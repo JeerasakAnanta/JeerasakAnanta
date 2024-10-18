@@ -59,7 +59,7 @@
 
 </details>
 
-## 🐥 My Core-Skills
+## 🐥 My Project 
 
 
 ## 🔮 What in future
