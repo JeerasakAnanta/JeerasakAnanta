@@ -4,8 +4,6 @@
   
 ![My Skills](https://skillicons.dev/icons?i=python,linux,bash,cpp,js,java,react,vite,tailwind,docker,arch)
 
-## 0X7E4
-<img src="https://tryhackme-badges.s3.amazonaws.com/Game.png" alt="Your Image Badge" />
 
 ## Time Lime
 - 2022 - Present 🧑Student computer Science [CS RMUTL NAN](https://nan.rmutl.ac.th/)
@@ -61,6 +59,14 @@
 
 
 </details>
+
+<details>
+<summary>🐥 Info Sec </summary>
+## 0X7E4
+<img src="https://tryhackme-badges.s3.amazonaws.com/Game.png" alt="Your Image Badge" />
+
+</details>
+
 
 ## 🐥 My Project 
 
