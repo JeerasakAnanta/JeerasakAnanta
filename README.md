@@ -15,7 +15,7 @@
 - 👨‍💻 For fun [Leet Code](https://tryhackme.com/)
 - 🚩 CTFs player [TryHackMe](https://leetcode.com/_JeerasaK_/)
 - 🐧 Linux lovero
-- 🤖 Learning anything with Machine Learning
+- 🤖 Learning anything with Machine Learning &data engineer 
 - Learning anything with integrating LLM to applications
 
 ## 📚 Tech Stack & Skills
