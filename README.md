@@ -4,7 +4,7 @@
 - I'm Jeerasak Ananta (he/they), a passionate Computer Science student dedicated to honing my skills in programming and technology. enjoy solving complex problems and exploring innovative solutions, particularly in artificial intelligence and machine learning areas.
 - STAY HARD 
 
-![My Skills](https://skillicons.dev/icons?i=python,linux,bash,cpp,js,java,react,vite,tailwind,docker,arch)
+![My Skills](https://skillicons.dev/icons?i=python,linux,bash,cpp,js,java,react,vite,tailwind,docker,arch,aws)
 
 ## Timeline
 - **2022 - Present** 🧑‍🎓 Student in Computer Science at [CS RMUTL NAN](https://nan.rmutl.ac.th/)
