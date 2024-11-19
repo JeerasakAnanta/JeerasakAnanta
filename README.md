@@ -2,9 +2,9 @@
 
 ## 🔱 Who am I?
 - I'm Jeerasak Ananta (he/they), a passionate Computer Science student dedicated to honing my skills in programming and technology. enjoy solving complex problems and exploring innovative solutions, particularly in artificial intelligence and machine learning areas.
-- STAY HARD 
+- STAY HARD
 
-![My Skills](https://skillicons.dev/icons?i=python,linux,bash,cpp,js,java,react,vite,tailwind,docker,arch,aws)
+![My Skills](https://skillicons.dev/icons?i=python,linux,bash,cpp,js,java,react,vite,tailwind,docker,arch,aws,)
 
 ## Timeline
 - **2022 - Present** 🧑‍🎓 Student in Computer Science at [CS RMUTL NAN](https://nan.rmutl.ac.th/)
@@ -24,24 +24,31 @@
 <details>
 <summary>👨‍💻 Programming Languages</summary>
 
-![Programming Skills](https://skillicons.dev/icons?i=cpp,python,java,php,js,go,rust)
+![Programming Skills](https://skillicons.dev/icons?i=cpp,python,java,php,js,ts,go,rust)
 
 </details>
 
 <details>
 <summary>🐥 Frontend Development</summary>
 
-![Frontend Skills](https://skillicons.dev/icons?i=react,tailwind)
+![Frontend Skills](https://skillicons.dev/icons?i=html,css,react,tailwind)
 
 </details>
 
 <details>
 <summary>☠️ Backend Development</summary>
 
-![Backend Skills](https://skillicons.dev/icons?i=fastapi,postgres)
+![Backend Skills](https://skillicons.dev/icons?i=fastapi,flask,postgres,dotnet)
 
 </details>
 
+
+<details>
+<summary> 🐥 Data Engineer</summary>
+
+![Data Engineer Skills](https://skillicons.dev/icons?i=grafana,)
+
+</details>
 <details>
 <summary>🤖 AI & ML</summary>
 
@@ -52,7 +59,7 @@
 <details>
 <summary>🐥 Development Tools</summary>
 
-![Dev Tools Skills](https://skillicons.dev/icons?i=vim,git,github,gitlab,linux,ubuntu,neovim,raspberrypi,arduino,redhat,jenkins)
+![Dev Tools Skills](https://skillicons.dev/icons?i=vim,git,github,gitlab,ubuntu,neovim,raspberrypi,arduino,redhat,jenkins,eclipse)
 
 </details>
 
@@ -62,10 +69,13 @@
 </details>
 
 ## 🐥 My Projects
+Coming Soon 😊
 
 ## 🔮 Future Goals
 - [ ] Complete my Computer Science degree (2022-2026)
-- [ ] Work in AI & ML roles
+- [ ] ~~Work in AI & ML roles~~
+- [ ] Software Engineer
+- [ ] Data Engineer
 
 ## 📩 Connect with Me
 - 📩 Email: [jeerasakananta@gmail.com](mailto:jeerasakananta@gmail.com)
