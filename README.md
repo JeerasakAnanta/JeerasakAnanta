@@ -3,8 +3,7 @@
 ## 🔱 Who am I?
 - I'm Jeerasak Ananta (he/they), a passionate Computer Science student dedicated to honing my skills in programming and technology. enjoy solving complex problems and exploring innovative solutions, particularly in artificial intelligence and machine learning areas.
 - STAY HARD
-
-![My Skills](https://skillicons.dev/icons?i=python,linux,bash,cpp,js,java,react,vite,tailwind,docker,arch,aws,)
+- ![My Skills](https://skillicons.dev/icons?i=python,linux,bash,cpp,js,java,react,vite,tailwind,docker,arch,aws,)
 
 ## Timeline
 - **2022 - Present** 🧑‍🎓 Student in Computer Science at [CS RMUTL NAN](https://nan.rmutl.ac.th/)
@@ -82,6 +81,9 @@ Coming Soon 😊
 - 🔗 [LinkedIn](https://www.linkedin.com/in/jeerasak-ananta-a1b4231a2/)
 - 📖 [Medium](https://medium.com/@jeerasakananta_1762/about)
 
-Thank you for reading! 😊💯💪
+---
+- [![DigitalOcean Referral Badge](https://web-platforms.sfo2.cdn.digitaloceanspaces.com/WWW/Badge%201.svg)](https://www.digitalocean.com/?refcode=b3f2bac99791&utm_campaign=Referral_Invite&utm_medium=Referral_Program&utm_source=badge)
+
+- Thank you for reading! 😊💯💪
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JeerasakAnanta)](https://github.com/JeerasakAnanta/github-readme-stats)
