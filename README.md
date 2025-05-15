@@ -1,9 +1,10 @@
-# Hey There
+# Jeerasak Ananta - Tech Enthusiast & CS Student
 
 ## 🔱 Who am I?
-- I'm Jeerasak Ananta , a passionate Computer Science student dedicated to honing my skills in programming and technology. enjoy solving complex problems and exploring innovative solutions, particularly in artificial intelligence and machine learning areas.
-- STAY HARD
-  
+I'm Jeerasak Ananta, a passionate Computer Science student dedicated to honing my skills in programming and technology. I enjoy solving complex problems and exploring innovative solutions, particularly in artificial intelligence and machine learning areas. I love self-hosting open-source projects.
+
+**STAY HARD**
+
 ![My Skills](https://skillicons.dev/icons?i=python,linux,bash,cpp,ts,java,react,vite,tailwind,docker,arch,aws)
 
 ## Timeline
@@ -11,7 +12,7 @@
 - **2024** - SuperAI Engineer Season 4 at [SS4](https://superai.aiat.or.th/2022/hall-of-fame-2022/)
 - **2024** - Co-op and internship as an LLM Developer at [Bank for Agriculture and Agricultural Co-operatives (BAAC)](https://www.baac.or.th/en/)
 
-## 🧑‍💻 What I’m Doing Now
+## 🧑‍💻 What I'm Doing Now
 - 💻 Studying Computer Science
 - 👨‍💻 Practicing on [LeetCode](https://leetcode.com/_JeerasaK/)
 - 🚩 Participating in CTFs on [TryHackMe](https://tryhackme.com/)
@@ -42,13 +43,13 @@
 
 </details>
 
-
 <details>
-<summary> 🐥 Data Engineer</summary>
+<summary>🐥 Data Engineer</summary>
 
 ![Data Engineer Skills](https://skillicons.dev/icons?i=grafana,)
 
 </details>
+
 <details>
 <summary>🤖 AI & ML</summary>
 
@@ -83,8 +84,9 @@ Coming Soon 😊
 - 📖 [Medium](https://medium.com/@jeerasakananta_1762/about)
 
 ---
-  [![DigitalOcean Referral Badge](https://web-platforms.sfo2.cdn.digitaloceanspaces.com/WWW/Badge%201.svg)](https://www.digitalocean.com/?refcode=b3f2bac99791&utm_campaign=Referral_Invite&utm_medium=Referral_Program&utm_source=badge)
 
-- Thank you for reading! 😊💯💪
+[![DigitalOcean Referral Badge](https://web-platforms.sfo2.cdn.digitaloceanspaces.com/WWW/Badge%201.svg)](https://www.digitalocean.com/?refcode=b3f2bac99791&utm_campaign=Referral_Invite&utm_medium=Referral_Program&utm_source=badge)
+
+Thank you for reading! 😊💯💪
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JeerasakAnanta)](https://github.com/JeerasakAnanta/github-readme-stats)
