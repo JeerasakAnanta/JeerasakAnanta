@@ -1,6 +1,6 @@
 # Jeerasak Ananta - Tech Enthusiast & CS Student
 
-## 🔱 Who am I?
+## 🔱 Who am I
 I'm Jeerasak Ananta, a passionate Computer Science student dedicated to honing my skills in programming and technology. I enjoy solving complex problems and exploring innovative solutions, particularly in artificial intelligence and machine learning areas. I love self-hosting open-source projects.
 
 **STAY HARD**
@@ -18,7 +18,7 @@ I'm Jeerasak Ananta, a passionate Computer Science student dedicated to honing m
 - 🚩 Participating in CTFs on [TryHackMe](https://tryhackme.com/)
 - 🐧 A proud Linux enthusiast
 - 🤖 Learning about Machine Learning & Data Engineering
-- Exploring the integration of LLM into applications
+- 🔭 Exploring the integration of LLM into applications
 
 ## 📚 Tech Stack & Skills
 
@@ -70,7 +70,12 @@ I'm Jeerasak Ananta, a passionate Computer Science student dedicated to honing m
 </details>
 
 ## 🐥 My Projects
-Coming Soon 😊
+| Project    | Description     | link                                                    |
+| ---------- | --------------- | ------------------------------------------------------- |
+| CS Project | Chatbot Rag+LLM | [Chatbot](https://github.com/JeerasakAnanta/cs_project) |  |
+
+
+
 
 ## 🔮 Future Goals
 - [ ] Complete my Computer Science degree (2022-2026)
