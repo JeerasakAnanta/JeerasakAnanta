@@ -14,11 +14,9 @@ I'm Jeerasak Ananta, a passionate Computer Science student dedicated to honing m
 
 ## 🧑‍💻 What I'm Doing Now
 - 💻 Studying Computer Science
-- 👨‍💻 Practicing on [LeetCode](https://leetcode.com/_JeerasaK/)
-- 🚩 Participating in CTFs on [TryHackMe](https://tryhackme.com/)
 - 🐧 A proud Linux enthusiast
+- 🖥️ Exploring the SelfHosing
 - 🤖 Learning about Machine Learning & Data Engineering
-- 🔭 Exploring the integration of LLM into applications
 
 ## 📚 Tech Stack & Skills
 
