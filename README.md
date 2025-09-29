@@ -93,3 +93,5 @@ I'm Jeerasak Ananta, a passionate Computer Science student dedicated to honing m
 Thank you for reading! 😊💯💪
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JeerasakAnanta)](https://github.com/JeerasakAnanta/github-readme-stats)
+
+https://th.jobsdb.com/th/profile/jeerasak-ananta-k9SDDxnB7G
