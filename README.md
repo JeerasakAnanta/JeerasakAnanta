@@ -77,9 +77,10 @@ I'm Jeerasak Ananta, a passionate Computer Science student dedicated to honing m
 
 ## 🔮 Future Goals
 - [ ] Complete my Computer Science degree (2022-2026)
-- [ ] ~~Work in AI & ML roles~~
+- [ ] Work in AI & ML roles
 - [ ] Software Engineer
 - [ ] Data Engineer
+- [ ] cloud enineer 
 
 ## 📩 Connect with Me
 - 📩 Email: `jeerasakananta@gmail.com`
