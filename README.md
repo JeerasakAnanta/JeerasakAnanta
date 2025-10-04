@@ -1,9 +1,10 @@
-# Jeerasak Ananta - Tech Enthusiast & CS Student
+🧑‍💻 Jeerasak Ananta — Tech Enthusiast & Computer Science Student
+🔱 Who am I
 
-## 🔱 Who am I
-I'm Jeerasak Ananta, a passionate Computer Science student dedicated to honing my skills in programming and technology. I enjoy solving complex problems and exploring innovative solutions, particularly in artificial intelligence and machine learning areas. I love self-hosting open-source projects.
+I'm Jeerasak Ananta, a Computer Science student passionate about AI, RAG systems, and software engineering.
+I enjoy solving real-world problems, deploying systems, and building AI-driven solutions — from FastAPI web services to LLM-based chatbots.
 
-**STAY HARD**
+STAY HARD. KEEP BUILDING.
 
 ![My Skills](https://skillicons.dev/icons?i=python,linux,bash,cpp,ts,java,react,vite,tailwind,docker,arch,aws)
 
@@ -12,11 +13,47 @@ I'm Jeerasak Ananta, a passionate Computer Science student dedicated to honing m
 - **2024** - SuperAI Engineer Season 4 at [SS4](https://superai.aiat.or.th/2022/hall-of-fame-2022/)
 - **2024** - Co-op and internship as an LLM Developer at [Bank for Agriculture and Agricultural Co-operatives (BAAC)](https://www.baac.or.th/en/)
 
-## 🧑‍💻 What I'm Doing Now
-- 💻 Studying Computer Science
-- 🐧 A proud Linux enthusiast
-- 🖥️ Exploring the SelfHosing
-- 🤖 Learning about Machine Learning & Data Engineering
+## 🏆 Achievements & Highlights
+
+🥇 Winner – C/C++ Programming Competition (Nan)
+🥈 Runner-Up – C/C++ Programming Competition (Lampang)
+🧠 Participant – 26th National Software Contest (NSC 2023, Chiang Mai)
+💻 Winner – RMUTL Mini Hackathon (Chiang Mai)
+🤖 Developer – LINE Chatbot with OCR for Lottery Verification (Nan)
+🧩 SuperAI LLM-RAG Project (Co-op @ BAAC) — 2024
+🎓 Lecturer / Trainer – AI Inventor Program (RAG Systems, 2024)
+
+
+## 🎓 Education
+
+B.Sc. in Computer Science — Rajamangala University of Technology Lanna (Nan)
+📆 2022–Present | GPA: 3.97
+
+## 🪪 Certifications
+
+🎖 AWS re/Start Graduate – 2025
+🧩 Super AI Engineer (Season 4) – 2024
+⚙️ AI Beginner & AI Engineer (AIAT) – 2024
+🛡 Microsoft SC-200T00 Security Operations Analyst – 2024
+
+💼 Career Summary
+
+Recent CS graduate with hands-on experience in web development, AI, and RAG systems.
+Experienced with Docker, LangChain, FastAPI, Linux, and LLM fine-tuning.
+Strong background in system deployment, data engineering, and AI integration for real-world applications.
+
+Looking for:
+
+💻 Software Developer or Data Engineer roles
+
+
+| Project                               | Description                                                 | Link                                                 |
+| ------------------------------------- | ----------------------------------------------------------- | ---------------------------------------------------- |
+| 🧠 **SuperAI LLM-RAG Chatbot**         | AI-powered chatbot built using LangChain, FastAPI, and LLMs | [Repo](https://github.com/JeerasakAnanta/cs_project) |
+| 💬 **LINE Chatbot NCD (Nan Hospital)** | Health assistant chatbot using LINE Messaging API & RAG     | —                                                    |
+| 🧵 **Customer Analysis Platform**      | Research project on Handicraft data analytics               | —                                                    |
+| 🧑‍🏫 **AI Inventor Program Trainer**     | Lecturer on RAG systems and applied AI                      | —                                                    |
+
 
 ## 📚 Tech Stack & Skills
 
@@ -74,18 +111,18 @@ I'm Jeerasak Ananta, a passionate Computer Science student dedicated to honing m
 
 
 
+## 🌱 Current Focus
 
-## 🔮 Future Goals
-- [ ] Complete my Computer Science degree (2022-2026)
-- [ ] Work in AI & ML roles
-- [ ] Software Engineer
-- [ ] Data Engineer
-- [ ] cloud enineer 
+🤖 Advanced RAG + LLM applications
+🧩 MLOps & self-hosted AI systems
+☁️ Cloud & container-based deployment
 
 ## 📩 Connect with Me
-- 📩 Email: `jeerasakananta@gmail.com`
-- 🔗 [LinkedIn](https://www.linkedin.com/in/jeerasak-ananta-a1b4231a2/)
-- 📖 [Medium](https://medium.com/@jeerasakananta_1762/about)
+📧 Email: jeerasakananta@gmail.com
+💼 LinkedIn
+🧠 Medium
+🌐 Portfolio
+🐙 GitHub
 
 ---
 
