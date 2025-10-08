@@ -47,12 +47,12 @@ Looking for:
 💻 Software Developer or Data Engineer roles
 
 
-| Project                               | Description                                                 | Link                                                 |
-| ------------------------------------- | ----------------------------------------------------------- | ---------------------------------------------------- |
-| 🧠 **SuperAI LLM-RAG Chatbot**         | AI-powered chatbot built using LangChain, FastAPI, and LLMs | [Repo](https://github.com/JeerasakAnanta/cs_project) |
-| 💬 **LINE Chatbot NCD (Nan Hospital)** | Health assistant chatbot using LINE Messaging API & RAG     | —                                                    |
-| 🧵 **Customer Analysis Platform**      | Research project on Handicraft data analytics               | —                                                    |
-| 🧑‍🏫 **AI Inventor Program Trainer**     | Lecturer on RAG systems and applied AI                      | —                                                    |
+| Project                               | Description                                                 | Link                                                                 |
+| ------------------------------------- | ----------------------------------------------------------- | -------------------------------------------------------------------- |
+| 🧠 **SuperAI LLM-RAG Chatbot**         | AI-powered chatbot built using LangChain, FastAPI, and LLMs | [Repo](https://github.com/JeerasakAnanta/cs_project)                 |
+| 💬 **LINE Chatbot NCD (Nan Hospital)** | Health assistant chatbot using LINE Messaging API & RAG     | —                                                                    |
+| 🧵 **Customer Analysis Platform**      | Research project on Handicraft data analytics               | [Repo](https://github.com/JeerasakAnanta/customer-analysis-platform) |
+| 🧑‍🏫 **AI Inventor Program Trainer**     | Lecturer on RAG systems and applied AI                      | —                                                                    |
 
 
 ## 📚 Tech Stack & Skills
