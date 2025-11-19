@@ -1,4 +1,4 @@
-# 🧑‍💻 Jeerasak Ananta — Tech Enthusiast & Computer Science Student
+# 🧑‍💻 Jeerasak Ananta — Tech Enthusiast
 
 ## 🔱 Who am I
 
