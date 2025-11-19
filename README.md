@@ -2,49 +2,50 @@
 
 ## 🔱 Who am I
 
-I'm **Jeerasak Ananta**, a Computer Science student passionate about **AI, RAG systems, and software engineering**.
-I enjoy solving real-world problems, deploying systems, and building AI-driven solutions — from **FastAPI web services** to **LLM-based chatbots**.
+- I'm **Jeerasak Ananta (Game 🎮)**, a recent Computer Science student from RMUTL NAN passionate about **HomeLab, software development, AI, and RAG Systems**.
+- I enjoy solving real-world problems, deploying systems, and building AI-driven solutions — from **backend Python 3 services and frontend Node.js frameworks** to **LLM-based chatbots**.
 
 > 💪 *STAY HARD. KEEP BUILDING.*
-> 🎯 *LOOKs IN*
 
-![My Skills](https://skillicons.dev/icons?i=python,linux,bash,cpp,ts,java,nodejs,react,nextjs,tailwind,docker,aws)
+![My Skills](https://skillicons.dev/icons?i=python,linux,git,bash,cpp,ts,java,nodejs,react,nextjs,tailwind,docker,aws)
 
 ---
 
 ## 🎓 Education
 
-* **B.Sc. in Computer Science** — Rajamangala University of Technology Lanna (Nan)
-  📆 *2022–Present | GPA: 3.97*
+- **B.Sc. in Computer Science** — Rajamangala University of Technology Lanna (Nan)
+  📆 *2022–2025 | GPA: 3.97*
 
 ---
 
 ## 🪪 Certifications
 
-* 🎖 AWS re/Start Graduate – 2025
-* 🧩 Super AI Engineer (Season 4) – 2024
-* ⚙️ AI Beginner & AI Engineer (AIAT) – 2024
-* 🛡 Microsoft SC-200T00 Security Operations Analyst – 2024
+- 🎖 AWS re/Start Graduate – 2025
+- 🧩 Super AI Engineer (Season 4) – 2024
+- ⚙️ AI Beginner & AI Engineer (AIAT) – 2024
+- 🛡 Microsoft SC-200T00 Security Operations Analyst – 2024
 
 ---
 
 ## 🏆 Achievements & Highlights
 
-* 🥇 Winner – C/C++ Programming Competition (Nan)
-* 🥈 Runner-Up – C/C++ Programming Competition (Lampang)
-* 🧠 Participant – 26th National Software Contest (NSC 2023, Chiang Mai)
-* 💻 Winner – RMUTL Mini Hackathon (Chiang Mai)
-* 🤖 Developer – LINE Chatbot with OCR for Lottery Verification (Nan)
-* 🧩 SuperAI LLM-RAG Project (Co-op @ BAAC) — 2024
-* 🎓 Lecturer / Trainer – AI Inventor Program (RAG Systems, 2024)
+- 🥇 Winner – C/C++ Programming Competition (Nan)
+- 🥈 Runner-Up – C/C++ Programming Competition (Lampang)
+- 🧠 Participant – 26th National Software Contest (NSC 2023, Chiang Mai)
+- 💻 Winner – RMUTL Mini Hackathon (Chiang Mai)
+- 🤖 Developer – LINE Chatbot with OCR for Lottery Verification (Nan)
+- 🧩 SuperAI LLM-RAG Project (Co-op @ BAAC) — 2024
+- 🎓 Lecturer / Trainer – AI Inventor Program (RAG Systems, 2024)
 
 ---
 
 ## ⏰ Timeline
 
-* **2022 - Present** 🧑‍🎓 Student in Computer Science at [CS RMUTL NAN](https://nan.rmutl.ac.th/)
-* **2024** - SuperAI Engineer Season 4 at [SS4](https://superai.aiat.or.th/2022/hall-of-fame-2022/)
-* **2024** - Co-op / Internship as **LLM Developer** at [BAAC](https://www.baac.or.th/en/)
+- **2025** — Research Assistant, [CS RMUTL NAN](https://nan.rmutl.ac.th/)
+
+- **2022–2025** 🧑‍🎓 Student in Computer Science at [CS RMUTL NAN](https://nan.rmutl.ac.th/)
+- **2024** — SuperAI Engineer Season 4 at [SS4](https://superai.aiat.or.th/2022/hall-of-fame-2022/)
+- **2024** — Co-op / Internship as **LLM Developer** at [BAAC](https://www.baac.or.th/en/)
 
 ---
 
@@ -56,6 +57,17 @@ Strong background in **system deployment**, **data engineering**, and **AI integ
 
 > 🔍 Looking for: **Software Developer** or **Data Engineer** roles
 
+## 🚀 Featured Projects
+
+| Project                                | Description                                                 | Year | Link                                                 |
+| -------------------------------------- | ----------------------------------------------------------- | ---- | ---------------------------------------------------- |
+| 🧠 **Final Project — LLM-RAG Chatbot** | AI-powered chatbot built using LangChain, FastAPI, and LLMs | 2024 | [Repo](https://github.com/JeerasakAnanta/cs_project) |
+| 💬 **LINE Chatbot NCD (Nan Hospital)** | Health assistant chatbot using LINE Messaging API & RAG     | 2024 | private                                              |
+| 🧵 **Customer Analysis Platform**      | Research project on handicraft data analytics               | 2025 | private                                              |
+| 🧑‍🏫 **AI Inventor Program Trainer**   | Lecturer on RAG systems and applied AI                      | 2024 | —                                                    |
+| 🎟️ **Redcross Lottery (Nan)**          | Check lottery CS for Redcross Nan                           | 2023 | [Repo](https://github.com/JeerasakAnanta/redcross_lottery_nan) |
+
+---
 ---
 
 ## 📚 Tech Stack & Skills
@@ -109,32 +121,21 @@ Strong background in **system deployment**, **data engineering**, and **AI integ
 
 ---
 
-## 🚀 Featured Projects
-
-| Project                                | Description                                                 | Link                                                 |
-| -------------------------------------- | ----------------------------------------------------------- | ---------------------------------------------------- |
-| 🧠 **Final Project — LLM-RAG Chatbot** | AI-powered chatbot built using LangChain, FastAPI, and LLMs | [Repo](https://github.com/JeerasakAnanta/cs_project) |
-| 💬 **LINE Chatbot NCD (Nan Hospital)** | Health assistant chatbot using LINE Messaging API & RAG     | private                                              |
-| 🧵 **Customer Analysis Platform**      | Research project on handicraft data analytics               | private                                              |
-| 🧑‍🏫 **AI Inventor Program Trainer**  | Lecturer on RAG systems and applied AI                      | —                                                    |
-
----
-
 ## 🌱 Current Focus
 
-* 🤖 Advanced RAG + LLM applications
-* 🧩 MLOps & self-hosted AI systems
-* ☁️ Cloud & container-based deployment
+- 🤖 Advanced RAG + LLM applications
+- 🧩 MLOps & self-hosted AI systems
+- ☁️ Cloud and container-based deployment
 
 ---
 
 ## 📩 Connect with Me
 
-📧 [Email](mailto:jeerasakananta@gmail.com)
-💼 [LinkedIn](https://www.linkedin.com/in/jeerasakananta/)
-🧠 [Medium](https://medium.com/@jeerasakananta_1762)
-🌐 [Portfolio](https://jeerasakananta.github.io/)
-🐙 [GitHub](https://github.com/JeerasakAnanta)
+- 📧 [Email](mailto:jeerasakananta@gmail.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/jeerasakananta/)
+- 🧠 [Medium](https://medium.com/@jeerasakananta_1762)
+- 🌐 [Portfolio](https://jeerasakananta.github.io/)
+- 🐙 [GitHub](https://github.com/JeerasakAnanta)
 
 ---
 
