@@ -6,6 +6,7 @@ I'm **Jeerasak Ananta**, a Computer Science student passionate about **AI, RAG s
 I enjoy solving real-world problems, deploying systems, and building AI-driven solutions — from **FastAPI web services** to **LLM-based chatbots**.
 
 > 💪 *STAY HARD. KEEP BUILDING.*
+> 🎯 *LOOKs IN*
 
 ![My Skills](https://skillicons.dev/icons?i=python,linux,bash,cpp,ts,java,nodejs,react,nextjs,tailwind,docker,aws)
 
