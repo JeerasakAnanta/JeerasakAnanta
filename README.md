@@ -2,12 +2,20 @@
 
 ## 🔱 Who am I
 
-- I'm **Jeerasak Ananta (Game 🎮)**, a recent Computer Science student from RMUTL NAN passionate about **HomeLab, software development, AI, and RAG Systems**.
+- I'm **Jeerasak Ananta (Game 🎮)**, a recent Computer Science student from RMUTL NAN passionate about **HomeLab, Software Development, AI, and RAG Systems**.
 - I enjoy solving real-world problems, deploying systems, and building AI-driven solutions — from **backend Python 3 services and frontend Node.js frameworks** to **LLM-based chatbots**.
 
 > 💪 *STAY HARD. KEEP BUILDING.*
 
-![My Skills](https://skillicons.dev/icons?i=python,linux,git,bash,cpp,ts,java,nodejs,react,nextjs,tailwind,docker,aws)
+![My Skills](https://skillicons.dev/icons?i=python,linux,git,bash,cpp,ts,nodejs,nextjs,tailwind,docker,aws)
+
+---
+
+## 💼 Career Summary
+
+CS graduate with hands-on experience in **web development, AI, and RAG systems**.
+Currently working as a **Software Engineer** with expertise in **Docker, LangChain, FastAPI, Linux**, and **LLM fine-tuning**.
+Strong background in **system deployment**, **data engineering**, and **AI integration** for real-world applications.
 
 ---
 
@@ -15,6 +23,16 @@
 
 - **B.Sc. in Computer Science** — Rajamangala University of Technology Lanna (Nan)
   📆 *2022–2025 | GPA: 3.97*
+
+---
+
+## 🚀 Experiences
+
+- **2025–Present** — Software Engineer at [Freewill Solutions](https://www.freewillsolutions.com/)
+- **2025** — Research Assistant, [CS RMUTL NAN](https://nan.rmutl.ac.th/)
+- **2024** — SuperAI Engineer Season 4 (Boot Camp), [SS4](https://superai.aiat.or.th/2022/hall-of-fame-2022/)
+- **2024** — Co-op / Internship as **LLM Developer** at [BAAC](https://www.baac.or.th/en/)
+- **2022–2025** — Student in Computer Science at [CS RMUTL NAN](https://nan.rmutl.ac.th/)
 
 ---
 
@@ -39,35 +57,16 @@
 
 ---
 
-## ⏰ Timeline
-
-- **2025** — Research Assistant, [CS RMUTL NAN](https://nan.rmutl.ac.th/)
-
-- **2022–2025** 🧑‍🎓 Student in Computer Science at [CS RMUTL NAN](https://nan.rmutl.ac.th/)
-- **2024** — SuperAI Engineer Season 4 at [SS4](https://superai.aiat.or.th/2022/hall-of-fame-2022/)
-- **2024** — Co-op / Internship as **LLM Developer** at [BAAC](https://www.baac.or.th/en/)
-
----
-
-## 💼 Career Summary
-
-Recent CS graduate with hands-on experience in **web development, AI, and RAG systems**.
-Skilled with **Docker, LangChain, FastAPI, Linux**, and **LLM fine-tuning**.
-Strong background in **system deployment**, **data engineering**, and **AI integration** for real-world applications.
-
-> 🔍 Looking for: **Software Developer** or **Data Engineer** roles
-
 ## 🚀 Featured Projects
 
 | Project                                | Description                                                 | Year | Link                                                 |
 | -------------------------------------- | ----------------------------------------------------------- | ---- | ---------------------------------------------------- |
+| 🧵 **Customer Analysis Platform**      | Research project on handicraft data analytics               | 2025 | private                                              |
 | 🧠 **Final Project — LLM-RAG Chatbot** | AI-powered chatbot built using LangChain, FastAPI, and LLMs | 2024 | [Repo](https://github.com/JeerasakAnanta/cs_project) |
 | 💬 **LINE Chatbot NCD (Nan Hospital)** | Health assistant chatbot using LINE Messaging API & RAG     | 2024 | private                                              |
-| 🧵 **Customer Analysis Platform**      | Research project on handicraft data analytics               | 2025 | private                                              |
 | 🧑‍🏫 **AI Inventor Program Trainer**   | Lecturer on RAG systems and applied AI                      | 2024 | —                                                    |
 | 🎟️ **Redcross Lottery (Nan)**          | Check lottery CS for Redcross Nan                           | 2023 | [Repo](https://github.com/JeerasakAnanta/redcross_lottery_nan) |
 
----
 ---
 
 ## 📚 Tech Stack & Skills
@@ -116,7 +115,9 @@ Strong background in **system deployment**, **data engineering**, and **AI integ
 
 <details>
 <summary>🧩 InfoSec</summary>
-<img src="https://tryhackme-badges.s3.amazonaws.com/Game.png" alt="TryHackMe Badge" />
+
+[![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/Game.png)](https://tryhackme.com/p/Game)
+
 </details>
 
 ---
