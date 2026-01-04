@@ -13,9 +13,9 @@
 
 ## 💼 Career Summary
 
-CS graduate with hands-on experience in **web development, AI, and RAG systems**.
-Currently working as a **Software Engineer** with expertise in **Docker, LangChain, FastAPI, Linux**, and **LLM fine-tuning**.
-Strong background in **system deployment**, **data engineering**, and **AI integration** for real-world applications.
+CS graduate with hands-on experience in **Backend, AI, RAG** Development.
+Currently working as a **Software Engineer** with expertise in **Docker, LangChain, FastAPI, Linux**, and **LLM (chatbot)**.
+Strong background in **System deployment**, **Data engineering**, and **AI integration** for real-world applications.
 
 ---
 
