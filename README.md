@@ -1,21 +1,31 @@
-# 🧑‍💻 Jeerasak Ananta — Tech Enthusiast
+# 🧑‍💻 Jeerasak Ananta
 
-## 🔱 Who am I
+**Tech Enthusiast | Software Engineer | AI & RAG Developer**
 
-- I'm **Jeerasak Ananta (Game 🎮)**, a recent Computer Science student from RMUTL NAN passionate about **HomeLab, Software Development, AI, and RAG Systems**.
-- I enjoy solving real-world problems, deploying systems, and building AI-driven solutions — from **backend Python 3 services and frontend Node.js frameworks** to **LLM-based chatbots**.
+## 🔱 About Me
+
+I'm **Jeerasak Ananta** (Game 🎮), a Computer Science graduate from **RMUTL NAN** passionate about:
+- **HomeLab & System Deployment**
+- **Software Development & Backend Engineering**
+- **AI/LLM & RAG Systems**
+
+I solve real-world problems by building robust systems — from **Python/FastAPI backends** to **AI-driven chatbots** using modern cloud and containerized architectures.
 
 > 💪 *STAY HARD. KEEP BUILDING.*
 
-![My Skills](https://skillicons.dev/icons?i=python,linux,git,bash,cpp,ts,nodejs,nextjs,tailwind,docker,aws)
+![Tech Stack](https://skillicons.dev/icons?i=python,linux,git,bash,cpp,ts,nodejs,nextjs,tailwind,docker,aws)
 
 ---
 
 ## 💼 Career Summary
 
-CS graduate with hands-on experience in **Backend, AI, RAG** Development.
-Currently working as a **Software Engineer** with expertise in **Docker, LangChain, FastAPI, Linux**, and **LLM (chatbot)**.
-Strong background in **System deployment**, **Data engineering**, and **AI integration** for real-world applications.
+**Software Engineer** specializing in backend development, AI/LLM systems, and cloud deployment.
+
+**Core Expertise:**
+- Backend Services: FastAPI, Python, Node.js
+- AI/LLM: LangChain, RAG Systems, LLM Integration
+- DevOps: Docker, Linux, AWS, System Deployment
+- Data Engineering & System Integration
 
 ---
 
@@ -26,13 +36,15 @@ Strong background in **System deployment**, **Data engineering**, and **AI integ
 
 ---
 
-## 🚀 Experiences
+## 🚀 Professional Experience
 
-- **2025–Present** — Software Engineer at [Freewill Solutions](https://www.freewillsolutions.com/)
-- **2025** — Research Assistant, [CS RMUTL NAN](https://nan.rmutl.ac.th/)
-- **2024** — SuperAI Engineer Season 4 (Boot Camp), [SS4](https://superai.aiat.or.th/2022/hall-of-fame-2022/)
-- **2024** — Co-op / Internship as **LLM Developer** at [BAAC](https://www.baac.or.th/en/)
-- **2022–2025** — Student in Computer Science at [CS RMUTL NAN](https://nan.rmutl.ac.th/)
+| Period | Role | Organization |
+|--------|------|--------------|
+| **2025–Present** | Software Engineer | [Freewill Solutions](https://www.freewillsolutions.com/) |
+| **2025** | Research Assistant | [CS RMUTL NAN](https://nan.rmutl.ac.th/) |
+| **2024** | SuperAI Engineer (Boot Camp) | [Season 4](https://superai.aiat.or.th/2022/hall-of-fame-2022/) |
+| **2024** | LLM Developer (Co-op) | [BAAC](https://www.baac.or.th/en/) |
+| **2022–2025** | Computer Science Student | [CS RMUTL NAN](https://nan.rmutl.ac.th/) |
 
 ---
 
@@ -59,13 +71,13 @@ Strong background in **System deployment**, **Data engineering**, and **AI integ
 
 ## 🚀 Featured Projects
 
-| Project                                | Description                                                 | Year | Link                                                 |
-| -------------------------------------- | ----------------------------------------------------------- | ---- | ---------------------------------------------------- |
-| 🧵 **Customer Analysis Platform**      | Research project on handicraft data analytics               | 2025 | private                                              |
-| 🧠 **Final Project — LLM-RAG Chatbot** | AI-powered chatbot built using LangChain, FastAPI, and LLMs | 2024 | [Repo](https://github.com/JeerasakAnanta/cs_project) |
-| 💬 **LINE Chatbot NCD (Nan Hospital)** | Health assistant chatbot using LINE Messaging API & RAG     | 2024 | private                                              |
-| 🧑‍🏫 **AI Inventor Program Trainer**   | Lecturer on RAG systems and applied AI                      | 2024 | —                                                    |
-| 🎟️ **Redcross Lottery (Nan)**          | Check lottery CS for Redcross Nan                           | 2023 | [Repo](https://github.com/JeerasakAnanta/redcross_lottery_nan) |
+| Project | Description | Year |
+|---------|-------------|------|
+| 🧵 **Customer Analysis Platform** | Research project on handicraft data analytics | 2025 |
+| 🧠 **LLM-RAG Chatbot** | AI-powered chatbot (LangChain, FastAPI, LLMs) | 2024 |
+| 💬 **LINE Chatbot for Hospital** | Health assistant with LINE Messaging API & RAG | 2024 |
+| 🧑‍🏫 **AI Trainer** | Lectured on RAG systems and applied AI | 2024 |
+| 🎟️ **Lottery Verification System** | [Redcross Nan](https://github.com/JeerasakAnanta/redcross_lottery_nan) | 2023 |
 
 ---
 
@@ -124,19 +136,21 @@ Strong background in **System deployment**, **Data engineering**, and **AI integ
 
 ## 🌱 Current Focus
 
-- 🤖 Advanced RAG + LLM applications
-- 🧩 MLOps & self-hosted AI systems
-- ☁️ Cloud and container-based deployment
+- 🤖 **Advanced RAG & LLM Applications**
+- 🧩 **MLOps & Self-hosted AI Systems**
+- ☁️ **Cloud & Container-based Deployment**
 
 ---
 
 ## 📩 Connect with Me
 
-- 📧 [Email](mailto:jeerasakananta@gmail.com)
-- 💼 [LinkedIn](https://www.linkedin.com/in/jeerasakananta/)
-- 🧠 [Medium](https://medium.com/@jeerasakananta_1762)
-- 🌐 [Portfolio](https://jeerasakananta.github.io/)
-- 🐙 [GitHub](https://github.com/JeerasakAnanta)
+| Platform | Link |
+|----------|------|
+| 📧 Email | [jeerasakananta@gmail.com](mailto:jeerasakananta@gmail.com) |
+| 💼 LinkedIn | [jeerasakananta](https://www.linkedin.com/in/jeerasakananta/) |
+| 🧠 Medium | [@jeerasakananta_1762](https://medium.com/@jeerasakananta_1762) |
+| 🌐 Portfolio | [jeerasakananta.github.io](https://jeerasakananta.github.io/) |
+| 🐙 GitHub | [JeerasakAnanta](https://github.com/JeerasakAnanta) |
 
 ---
 
