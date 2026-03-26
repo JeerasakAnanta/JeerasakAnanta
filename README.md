@@ -1,28 +1,10 @@
-<style>
-@keyframes typing {
-  0% { width: 0; }
-  50% { width: 100%; }
-  100% { width: 0; }
-}
-@keyframes blink {
-  0%, 49% { border-right-color: rgba(0, 0, 0, 0.8); }
-  50%, 100% { border-right-color: transparent; }
-}
-.type-text {
-  display: inline-block;
-  border-right: 3px solid rgba(0, 0, 0, 0.8);
-  white-space: nowrap;
-  overflow: hidden;
-  animation: typing 6s steps(45, end) infinite, blink 0.75s step-end infinite;
-}
-</style>
-
 <div align="center">
 
-<h1 align="center">Hi there, I'm <strong>Jeerasak Ananta</strong> 👋</h1>
-<h3 align="center">Software Engineer · HomeLab Enthusiast</h3>
+# Hi there, I'm **Jeerasak Ananta** 👋
 
-<p align="center"><span class="type-text">💪 <strong>STAY HARD. KEEP BUILDING.</strong></span></p>
+### Software Engineer · HomeLab Enthusiast
+
+💪 **STAY HARD. KEEP BUILDING.**
 
 </div>
 
@@ -53,28 +35,38 @@ class JeerasakAnanta:
 
 ![Tech Stack](https://skillicons.dev/icons?i=python,linux,git,bash,cpp,ts,nodejs,nextjs,tailwind,docker,aws)
 
-### 🤖 AI & Machine Learning
-
+<details>
+  <summary>🤖 AI & Machine Learning</summary>
+  
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-FF6B35?style=for-the-badge&logo=langchain&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/Hugging_Face-FF6F61?style=for-the-badge&logo=huggingface&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-FF6B35?style=for-the-badge&logo=ollama&logoColor=white)
 
-### ⚡ Backend & APIs
+</details>
+
+<details>
+  <summary>⚡ Backend & APIs</summary>
 
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_API-FF6B35?style=for-the-badge&logo=swagger&logoColor=white)
+</details>
 
-### 🎨 Frontend
+<details>
 
+  <summary>🎨 Frontend & UI</summary>
+  
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+</details>
 
-### 🗄️ Databases & Data
+<details>
+  <summary>🗄️ Databases & Data </summary>
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
@@ -82,8 +74,10 @@ class JeerasakAnanta:
 ![Qdrant](https://img.shields.io/badge/Qdrant-DC244C?style=for-the-badge&logo=qdrant&logoColor=white)
 ![MinIO](https://img.shields.io/badge/MinIO-C72E49?style=for-the-badge&logo=minio&logoColor=white)
 ![Apache Airflow](https://img.shields.io/badge/Apache_Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white)
+</details>
 
-### ☁️ DevOps & Cloud
+<details>
+  <summary>☁️ DevOps & Cloud</summary>
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
@@ -92,11 +86,15 @@ class JeerasakAnanta:
 ![NGINX](https://img.shields.io/badge/NGINX-009639?style=for-the-badge&logo=nginx&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+</details>
 
-### 🔄 Workflow Automation
+<details>
+  <summary>🔄 Workflow Automation</summary>
 
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
 ![Dify](https://img.shields.io/badge/Dify-0080FF?style=for-the-badge&logo=dify&logoColor=white)
+
+</details>
 
 ---
 
@@ -191,8 +189,6 @@ class JeerasakAnanta:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-jeerasakananta-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jeerasakananta/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-jeerasakananta.dev-00D9FF?style=for-the-badge&logo=vercel&logoColor=white)](https://www.jeerasakananta.dev)
 [![Medium](https://img.shields.io/badge/Medium-@jeerasakananta-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@jeerasakananta_1762)
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-Game-1DB954?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/Game)
-
 </div>
 
 ---
