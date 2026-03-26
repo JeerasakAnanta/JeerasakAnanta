@@ -1,22 +1,28 @@
+<style>
+@keyframes typing {
+  0% { width: 0; }
+  50% { width: 100%; }
+  100% { width: 0; }
+}
+@keyframes blink {
+  0%, 49% { border-right-color: rgba(0, 0, 0, 0.8); }
+  50%, 100% { border-right-color: transparent; }
+}
+.type-text {
+  display: inline-block;
+  border-right: 3px solid rgba(0, 0, 0, 0.8);
+  white-space: nowrap;
+  overflow: hidden;
+  animation: typing 6s steps(45, end) infinite, blink 0.75s step-end infinite;
+}
+</style>
+
 <div align="center">
 
-```text
-╔══════════════════════════════════════════════════════════════╗
-║                                                              ║
-║          ██████╗  █████╗ ███╗   ███╗███████╗                 ║
-║         ██╔════╝ ██╔══██╗████╗ ████║██╔════╝                 ║
-║         ██║  ███╗███████║██╔████╔██║█████╗                   ║
-║         ██║   ██║██╔══██║██║╚██╔╝██║██╔══╝                   ║
-║         ╚██████╔╝██║  ██║██║ ╚═╝ ██║███████╗                 ║
-║          ╚═════╝ ╚═╝  ╚═╝╚═╝     ╚═╝╚══════╝                 ║
-║                                                              ║
-╚══════════════════════════════════════════════════════════════╝
-```
-
 <h1 align="center">Hi there, I'm <strong>Jeerasak Ananta</strong> 👋</h1>
-<h3 align="center">Software Engineer · AI Developer · HomeLab Enthusiast</h3>
+<h3 align="center">Software Engineer · HomeLab Enthusiast</h3>
 
-<p align="center">💪 <strong>STAY HARD. KEEP BUILDING.</strong></p>
+<p align="center"><span class="type-text">💪 <strong>STAY HARD. KEEP BUILDING.</strong></span></p>
 
 </div>
 
@@ -45,21 +51,31 @@ class JeerasakAnanta:
 
 ## 🛠️ Tech Stack
 
-### 🤖 AI & Machine Learning
 ![Tech Stack](https://skillicons.dev/icons?i=python,linux,git,bash,cpp,ts,nodejs,nextjs,tailwind,docker,aws)
 
+### 🤖 AI & Machine Learning
+
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-FF6B35?style=for-the-badge&logo=langchain&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging_Face-FF6F61?style=for-the-badge&logo=huggingface&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+
 ### ⚡ Backend & APIs
+
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_API-FF6B35?style=for-the-badge&logo=swagger&logoColor=white)
 
 ### 🎨 Frontend
+
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
 ### 🗄️ Databases & Data
+
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
@@ -68,6 +84,7 @@ class JeerasakAnanta:
 ![Apache Airflow](https://img.shields.io/badge/Apache_Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white)
 
 ### ☁️ DevOps & Cloud
+
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
@@ -77,6 +94,7 @@ class JeerasakAnanta:
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ### 🔄 Workflow Automation
+
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
 ![Dify](https://img.shields.io/badge/Dify-0080FF?style=for-the-badge&logo=dify&logoColor=white)
 
@@ -127,14 +145,12 @@ class JeerasakAnanta:
 
 ## 💼 Experience
 
-```text
-🏢 Software Engineer (Automation)   │ Freewill Solutions          │ Oct 2025 – Present
-🎓 Research Assistant               │ RMUTL Nan                   │ Oct 2024 – Sep 2025
-🏦 LLM Developer (Co-op / Intern)   │ BAAC HQ                     │ Jun 2024 – Sep 2024
-📚 Teaching Assistant               │ RMUTL Nan                   │ Jun 2023 – Oct 2025
-```
-
----
+| Role | Company | Duration |
+|------|--------|---------|
+| Software Engineer | Freewill Solutions | Oct 2025 – Present |
+| Research Assistant | RMUTL Nan | Oct 2024 – Sep 2025 |
+| LLM Developer (Co-op/Intern) | BAAC HQ | Jun 2024 – Sep 2024 |
+| Teaching Assistant | RMUTL Nan | Jun 2023 – Oct 2025 |
 
 ## 🏆 Achievements
 
