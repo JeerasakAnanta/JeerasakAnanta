@@ -1,161 +1,188 @@
-# 🧑‍💻 Jeerasak Ananta
+<div align="center">
 
-**Tech Enthusiast | Software Engineer | AI & RAG Developer**
+```text
+╔══════════════════════════════════════════════════════════════╗
+║                                                              ║
+║          ██████╗  █████╗ ███╗   ███╗███████╗                 ║
+║         ██╔════╝ ██╔══██╗████╗ ████║██╔════╝                 ║
+║         ██║  ███╗███████║██╔████╔██║█████╗                   ║
+║         ██║   ██║██╔══██║██║╚██╔╝██║██╔══╝                   ║
+║         ╚██████╔╝██║  ██║██║ ╚═╝ ██║███████╗                 ║
+║          ╚═════╝ ╚═╝  ╚═╝╚═╝     ╚═╝╚══════╝                 ║
+║                                                              ║
+╚══════════════════════════════════════════════════════════════╝
+```
 
-## 🔱 About Me
+<h1 align="center">Hi there, I'm <strong>Jeerasak Ananta</strong> 👋</h1>
+<h3 align="center">Software Engineer · AI Developer · HomeLab Enthusiast</h3>
 
-I'm **Jeerasak Ananta** (Game 🎮), a Computer Science graduate from **RMUTL NAN** passionate about:
-- **HomeLab & System Deployment**
-- **Software Development & Backend Engineering**
-- **AI/LLM & RAG Systems**
+<p align="center">💪 <strong>STAY HARD. KEEP BUILDING.</strong></p>
 
-I solve real-world problems by building robust systems — from **Python/FastAPI backends** to **AI-driven chatbots** using modern cloud and containerized architectures.
+</div>
 
-> 💪 *STAY HARD. KEEP BUILDING.*
+---
 
+## 🧑‍💻 About Me
+
+```python
+class JeerasakAnanta:
+    name       = "Jeerasak Ananta (Game 🎮)"
+    role       = "Software Engineer"
+    education  = "B.Sc. Computer Science — RMUTL Nan (GPA: 3.97)"
+    location   = "Lampang, Thailand 🇹🇭"
+
+    focus = [
+        "🤖 Advanced RAG & LLM Applications",
+        "⚙️  Workflow Automation (n8n, Dify)",
+        "🧩  MLOps & Self-hosted AI Systems",
+        "☁️  Cloud & Container-based Deployment",
+    ]
+
+    motto = "STAY HARD. KEEP BUILDING. 💪"
+```
+
+---
+
+## 🛠️ Tech Stack
+
+### 🤖 AI & Machine Learning
 ![Tech Stack](https://skillicons.dev/icons?i=python,linux,git,bash,cpp,ts,nodejs,nextjs,tailwind,docker,aws)
 
----
+### ⚡ Backend & APIs
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-FF6B35?style=for-the-badge&logo=swagger&logoColor=white)
 
-## 💼 Career Summary
+### 🎨 Frontend
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
-**Software Engineer** specializing in backend development, AI/LLM systems, and cloud deployment.
+### 🗄️ Databases & Data
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Qdrant](https://img.shields.io/badge/Qdrant-DC244C?style=for-the-badge&logo=qdrant&logoColor=white)
+![MinIO](https://img.shields.io/badge/MinIO-C72E49?style=for-the-badge&logo=minio&logoColor=white)
+![Apache Airflow](https://img.shields.io/badge/Apache_Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white)
 
-**Core Expertise:**
-- Backend Services: FastAPI, Python, Node.js
-- AI/LLM: LangChain, RAG Systems, LLM Integration
-- DevOps: Docker, Linux, AWS, System Deployment
-- Data Engineering & System Integration
+### ☁️ DevOps & Cloud
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![NGINX](https://img.shields.io/badge/NGINX-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
----
-
-## 🎓 Education
-
-- **B.Sc. in Computer Science** — Rajamangala University of Technology Lanna (Nan)
-  📆 *2022–2025 | GPA: 3.97*
-
----
-
-## 🚀 Professional Experience
-
-| Period | Role | Organization |
-|--------|------|--------------|
-| **2025–Present** | Software Engineer | [Freewill Solutions](https://www.freewillsolutions.com/) |
-| **2025** | Research Assistant | [CS RMUTL NAN](https://nan.rmutl.ac.th/) |
-| **2024** | SuperAI Engineer (Boot Camp) | [Season 4](https://superai.aiat.or.th/2022/hall-of-fame-2022/) |
-| **2024** | LLM Developer (Co-op) | [BAAC](https://www.baac.or.th/en/) |
-| **2022–2025** | Computer Science Student | [CS RMUTL NAN](https://nan.rmutl.ac.th/) |
-
----
-
-## 🪪 Certifications
-
-- 🎖 AWS re/Start Graduate – 2025
-- 🧩 Super AI Engineer (Season 4) – 2024
-- ⚙️ AI Beginner & AI Engineer (AIAT) – 2024
-- 🛡 Microsoft SC-200T00 Security Operations Analyst – 2024
-
----
-
-## 🏆 Achievements & Highlights
-
-- 🥇 Winner – C/C++ Programming Competition (Nan)
-- 🥈 Runner-Up – C/C++ Programming Competition (Lampang)
-- 🧠 Participant – 26th National Software Contest (NSC 2023, Chiang Mai)
-- 💻 Winner – RMUTL Mini Hackathon (Chiang Mai)
-- 🤖 Developer – LINE Chatbot with OCR for Lottery Verification (Nan)
-- 🧩 SuperAI LLM-RAG Project (Co-op @ BAAC) — 2024
-- 🎓 Lecturer / Trainer – AI Inventor Program (RAG Systems, 2024)
+### 🔄 Workflow Automation
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+![Dify](https://img.shields.io/badge/Dify-0080FF?style=for-the-badge&logo=dify&logoColor=white)
 
 ---
 
 ## 🚀 Featured Projects
 
-| Project | Description | Year |
-|---------|-------------|------|
-| 🧵 **Customer Analysis Platform** | Research project on handicraft data analytics | 2025 |
-| 🧠 **LLM-RAG Chatbot** | AI-powered chatbot (LangChain, FastAPI, LLMs) | 2024 |
-| 💬 **LINE Chatbot for Hospital** | Health assistant with LINE Messaging API & RAG | 2024 |
-| 🧑‍🏫 **AI Trainer** | Lectured on RAG systems and applied AI | 2024 |
-| 🎟️ **Lottery Verification System** | [Redcross Nan](https://github.com/JeerasakAnanta/redcross_lottery_nan) | 2023 |
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🏦 LannaFinChat — AI Financial Assistant</h3>
+      <p>RAG-powered chatbot for RMUTL Finance Dept. Handles reimbursement queries via LINE with semantic search over policy documents.</p>
+      <p><code>Python</code> <code>LangChain</code> <code>Qdrant</code> <code>Next.js</code> <code>LINE API</code></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🏥 NCD Public Health LINE Chatbot</h3>
+      <p>LINE bot for community health volunteers at Nan Hospital — streamlines patient data collection and reduces rural paperwork.</p>
+      <p><code>FastAPI</code> <code>LangChain</code> <code>PostgreSQL</code> <code>LINE Bot</code></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>📊 Customer Analysis Platform</h3>
+      <p>Full-stack platform for SME entrepreneurs to analyze customer behavior using natural language querying via LLM integration.</p>
+      <p><code>Next.js</code> <code>FastAPI</code> <code>OpenAI</code> <code>LINE OA</code></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🎟️ OCR Lottery Verification — Red Cross</h3>
+      <p>Mobile-responsive web app to verify Red Cross lottery tickets via OCR. Supports camera scan + manual input fallback.</p>
+      <p><a href="https://github.com/JeerasakAnanta/redcross_lottery_nan">🔗 GitHub</a> · <code>FastAPI</code> <code>EasyOCR</code> <code>PostgreSQL</code></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🤖 BAAC LLM-RAG Chatbot (POC)</h3>
+      <p>Proof-of-concept chatbot for BAAC credit department. Fine-tuned on financial domain data, deployed via LINE Messaging API.</p>
+      <p><code>FastAPI</code> <code>LangChain</code> <code>OpenAI</code> <code>LINE API</code></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🧑‍🏫 Guest Lecturer — AI Inventor Program</h3>
+      <p>Delivered full-day technical training on RAG Systems, vector databases, and practical LLM implementation for program participants.</p>
+      <p><code>RAG Architecture</code> <code>Vector DB</code> <code>LLM Integration</code></p>
+    </td>
+  </tr>
+</table>
 
 ---
 
-## 📚 Tech Stack & Skills
+## 💼 Experience
 
-<details>
-<summary>👨‍💻 Programming Languages</summary>
-
-![Programming Skills](https://skillicons.dev/icons?i=cpp,python,java,php,js,ts,go,rust)
-
-</details>
-
-<details>
-<summary>🎨 Frontend Development</summary>
-
-![Frontend Skills](https://skillicons.dev/icons?i=html,css,react,tailwind)
-
-</details>
-
-<details>
-<summary>⚙️ Backend Development</summary>
-
-![Backend Skills](https://skillicons.dev/icons?i=fastapi,flask,postgres,dotnet)
-
-</details>
-
-<details>
-<summary>🧱 Data Engineering</summary>
-
-![Data Engineer Skills](https://skillicons.dev/icons?i=grafana)
-
-</details>
-
-<details>
-<summary>🤖 AI & ML</summary>
-
-![AI & ML Skills](https://skillicons.dev/icons?i=sklearn,anaconda)
-
-</details>
-
-<details>
-<summary>🛠 Development Tools</summary>
-
-![Dev Tools Skills](https://skillicons.dev/icons?i=vim,git,github,gitlab,ubuntu,neovim,raspberrypi,arduino,redhat,jenkins,eclipse)
-
-</details>
-
-<details>
-<summary>🧩 InfoSec</summary>
-
-[![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/Game.png)](https://tryhackme.com/p/Game)
-
-</details>
+```text
+🏢 Software Engineer (Automation)   │ Freewill Solutions          │ Oct 2025 – Present
+🎓 Research Assistant               │ RMUTL Nan                   │ Oct 2024 – Sep 2025
+🏦 LLM Developer (Co-op / Intern)   │ BAAC HQ                     │ Jun 2024 – Sep 2024
+📚 Teaching Assistant               │ RMUTL Nan                   │ Jun 2023 – Oct 2025
+```
 
 ---
 
-## 🌱 Current Focus
+## 🏆 Achievements
 
-- 🤖 **Advanced RAG & LLM Applications**
-- 🧩 **MLOps & Self-hosted AI Systems**
-- ☁️ **Cloud & Container-based Deployment**
+- 🥇 **Winner** — C/C++ Programming Competition (Nan)
+- 🥈 **Runner-Up** — C/C++ Programming Competition (Lampang)
+- 💻 **Winner** — RMUTL Mini Hackathon (Chiang Mai)
+- 🧠 **Participant** — 26th National Software Contest (NSC 2023, Chiang Mai)
+- 🤖 **SuperAI Engineer Season 4** — AI Developer Track
+
+---
+
+## 📜 Certifications
+
+| Badge | Certification | Year |
+|-------|--------------|------|
+| ☁️ | AWS re/Start Graduate | 2025 |
+| 🧠 | Super AI Engineer — Season 4 | 2024 |
+| 🤖 | AI Beginner & AI Engineer (AIAT) | 2024 |
+| 🛡️ | SC-200: Microsoft Security Operations Analyst | 2024 |
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+![GitHub Streak](https://streak-stats.demolab.com?user=JeerasakAnanta&theme=tokyonight&hide_border=true)
+
+</div>
 
 ---
 
 ## 📩 Connect with Me
 
-| Platform | Link |
-|----------|------|
-| 📧 Email | [jeerasakananta@gmail.com](mailto:jeerasakananta@gmail.com) |
-| 💼 LinkedIn | [jeerasakananta](https://www.linkedin.com/in/jeerasakananta/) |
-| 🧠 Medium | [@jeerasakananta_1762](https://medium.com/@jeerasakananta_1762) |
-| 🌐 Portfolio | [jeerasakananta.github.io](https://jeerasakananta.github.io/) |
-| 🐙 GitHub | [JeerasakAnanta](https://github.com/JeerasakAnanta) |
+<div align="center">
+
+[![Email](https://img.shields.io/badge/Email-jeerasakananta@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jeerasakananta@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-jeerasakananta-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jeerasakananta/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-jeerasakananta.dev-00D9FF?style=for-the-badge&logo=vercel&logoColor=white)](https://www.jeerasakananta.dev)
+[![Medium](https://img.shields.io/badge/Medium-@jeerasakananta-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@jeerasakananta_1762)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-Game-1DB954?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/Game)
+
+</div>
 
 ---
 
-## ☕ Support Me
+<div align="center">
 
-<a href="https://buymeacoffee.com/jeerasak" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy me a coffee" width="200"></a>
+<p align="center"><em>"STAY HARD. KEEP BUILDING."</em> 💪</p>
 
-[![DigitalOcean Referral Badge](https://web-platforms.sfo2.cdn.digitaloceanspaces.com/WWW/Badge%201.svg)](https://www.digitalocean.com/?refcode=b3f2bac99791&utm_campaign=Referral_Invite&utm_medium=Referral_Program&utm_source=badge)
+</div>
