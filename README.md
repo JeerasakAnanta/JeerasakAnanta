@@ -21,9 +21,9 @@ class JeerasakAnanta:
 
     focus = [
         "🤖 Advanced RAG & LLM Applications",
-        "⚙️  Workflow Automation (n8n, Dify)",
-        "🧩  MLOps & Self-hosted AI Systems",
-        "☁️  Cloud & Container-based Deployment",
+        "⚙️  Workflow Automation AI ",
+        "🧩  MLOps & Self-hosted Systems",
+        "☁️  Cloud Infrastructure Deployment",
     ]
 
     motto = "STAY HARD. KEEP BUILDING. 💪"
