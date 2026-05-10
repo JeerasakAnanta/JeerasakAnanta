@@ -127,8 +127,8 @@ class JeerasakAnanta:
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>🤖 BAAC LLM-RAG Chatbot (POC)</h3>
-      <p>Proof-of-concept chatbot for BAAC credit department. Fine-tuned on financial domain data, deployed via LINE Messaging API.</p>
+      <h3>🤖 BAAC LLM-RAG Chatbot</h3>
+      <p>Production RAG chatbot for BAAC credit department. Fine-tuned on financial domain data, deployed via LINE Messaging API.</p>
       <p><code>FastAPI</code> <code>LangChain</code> <code>OpenAI</code> <code>LINE API</code></p>
     </td>
     <td width="50%" valign="top">
@@ -145,6 +145,7 @@ class JeerasakAnanta:
 
 | Role | Company | Duration |
 |------|--------|---------|
+| Backend AI Engineer | Bank for Agriculture and Agricultural Cooperatives (BAAC) | May 2026 – Present |
 | Software Engineer | Freewill Solutions | Oct 2025 – Present |
 | Research Assistant | RMUTL Nan | Oct 2024 – Sep 2025 |
 | LLM Developer (Co-op/Intern) | BAAC HQ | Jun 2024 – Sep 2024 |
