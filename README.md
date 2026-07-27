@@ -31,6 +31,52 @@ class JeerasakAnanta:
 
 ---
 
+## 💼 Experience
+
+| Role | Company | Duration |
+| ---- | ------ | ------- |
+| Backend AI Engineer | Bank for Agriculture and Agricultural Cooperatives (BAAC) | May 2026 – Present |
+| Software Engineer | Freewill Solutions | Oct 2025 – Apr 2026 |
+| Research Assistant | RMUTL Nan | Oct 2024 – Sep 2025 |
+| LLM Developer (Co-op/Intern) | BAAC HQ | Jun 2024 – Sep 2024 |
+| Teaching Assistant | RMUTL Nan | Jun 2023 – Oct 2025 |
+
+---
+
+## 🚀 Featured Projects
+
+### 🏦 LannaFinChat — AI Financial Assistant
+
+> RAG-powered chatbot for RMUTL Finance Dept. Handles reimbursement queries via LINE with semantic search over policy documents.
+> `Python` `LangChain` `Qdrant` `Next.js` `LINE API`
+
+### 🏥 NCD Public Health LINE Chatbot
+
+> LINE bot for community health volunteers at Nan Hospital — streamlines patient data collection and reduces rural paperwork.
+> `FastAPI` `LangChain` `PostgreSQL` `LINE Bot`
+
+### 📊 Customer Analysis Platform
+
+> Full-stack platform for SME entrepreneurs to analyze customer behavior using natural language querying via LLM integration.
+> `Next.js` `FastAPI` `OpenAI` `LINE OA`
+
+### 🎟️ OCR Lottery Verification — Red Cross · [🔗 GitHub](https://github.com/JeerasakAnanta/redcross_lottery_nan)
+
+> Mobile-responsive web app to verify Red Cross lottery tickets via OCR. Supports camera scan + manual input fallback.
+> `FastAPI` `EasyOCR` `PostgreSQL`
+
+### 🤖 BAAC LLM-RAG Chatbot
+
+> Production RAG chatbot for BAAC credit department. Fine-tuned on financial domain data, deployed via LINE Messaging API.
+> `FastAPI` `LangChain` `OpenAI` `LINE API`
+
+### 🧑‍🏫 Guest Lecturer — AI Inventor Program
+
+> Delivered full-day technical training on RAG Systems, vector databases, and practical LLM implementation for program participants.
+> `RAG Architecture` `Vector DB` `LLM Integration`
+
+---
+
 ## 🛠️ Tech Stack
 
 ![Tech Stack](https://skillicons.dev/icons?i=python,linux,git,bash,cpp,ts,nodejs,nextjs,tailwind,docker,aws)
@@ -95,52 +141,6 @@ class JeerasakAnanta:
 ![Dify](https://img.shields.io/badge/Dify-0080FF?style=for-the-badge&logo=dify&logoColor=white)
 
 </details>
-
----
-
-## 🚀 Featured Projects
-
-### 🏦 LannaFinChat — AI Financial Assistant
-
-> RAG-powered chatbot for RMUTL Finance Dept. Handles reimbursement queries via LINE with semantic search over policy documents.
-> `Python` `LangChain` `Qdrant` `Next.js` `LINE API`
-
-### 🏥 NCD Public Health LINE Chatbot
-
-> LINE bot for community health volunteers at Nan Hospital — streamlines patient data collection and reduces rural paperwork.
-> `FastAPI` `LangChain` `PostgreSQL` `LINE Bot`
-
-### 📊 Customer Analysis Platform
-
-> Full-stack platform for SME entrepreneurs to analyze customer behavior using natural language querying via LLM integration.
-> `Next.js` `FastAPI` `OpenAI` `LINE OA`
-
-### 🎟️ OCR Lottery Verification — Red Cross · [🔗 GitHub](https://github.com/JeerasakAnanta/redcross_lottery_nan)
-
-> Mobile-responsive web app to verify Red Cross lottery tickets via OCR. Supports camera scan + manual input fallback.
-> `FastAPI` `EasyOCR` `PostgreSQL`
-
-### 🤖 BAAC LLM-RAG Chatbot
-
-> Production RAG chatbot for BAAC credit department. Fine-tuned on financial domain data, deployed via LINE Messaging API.
-> `FastAPI` `LangChain` `OpenAI` `LINE API`
-
-### 🧑‍🏫 Guest Lecturer — AI Inventor Program
-
-> Delivered full-day technical training on RAG Systems, vector databases, and practical LLM implementation for program participants.
-> `RAG Architecture` `Vector DB` `LLM Integration`
-
----
-
-## 💼 Experience
-
-| Role | Company | Duration |
-| ---- | ------ | ------- |
-| Backend AI Engineer | Bank for Agriculture and Agricultural Cooperatives (BAAC) | May 2026 – Present |
-| Software Engineer | Freewill Solutions | Oct 2025 – Present |
-| Research Assistant | RMUTL Nan | Oct 2024 – Sep 2025 |
-| LLM Developer (Co-op/Intern) | BAAC HQ | Jun 2024 – Sep 2024 |
-| Teaching Assistant | RMUTL Nan | Jun 2023 – Oct 2025 |
 
 ---
 
