@@ -79,9 +79,19 @@ class JeerasakAnanta:
 
 ## 🛠️ Tech Stack
 
-![Tech Stack](https://skillicons.dev/icons?i=python,linux,git,bash,cpp,ts,nodejs,nextjs,tailwind,docker,aws)
+**AI/ML** LangChain · LangGraph · Qdrant · Hugging Face · Ollama · PyTorch · TensorFlow
+**Backend** Python · FastAPI · TypeScript · Node.js
+**Frontend** Next.js · React · Tailwind CSS
+**Data** PostgreSQL · MongoDB · Redis · MinIO · Airflow
+**Infra** Docker · Linux · NGINX · Terraform · GitHub Actions · Jenkins · AWS
+**Automation** n8n · Dify
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,fastapi,ts,nextjs,react,tailwind,postgres,mongodb,redis,docker,linux,nginx,terraform,githubactions,aws,git&perline=8" />
+</div>
 
 <details>
+
   <summary>🤖 AI & Machine Learning</summary>
   
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
