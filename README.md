@@ -33,13 +33,13 @@ class JeerasakAnanta:
 
 ## 💼 Experience
 
-| Role | Company | Duration |
-| ---- | ------ | ------- |
-| Backend AI Engineer | Bank for Agriculture and Agricultural Cooperatives (BAAC) | May 2026 – Present |
-| Software Engineer | Freewill Solutions | Oct 2025 – Apr 2026 |
-| Research Assistant | RMUTL Nan | Oct 2024 – Sep 2025 |
-| LLM Developer (Co-op/Intern) | BAAC HQ | Jun 2024 – Sep 2024 |
-| Teaching Assistant | RMUTL Nan | Jun 2023 – Oct 2025 |
+| Role                         | Company                                                   | Duration            |
+| ---------------------------- | --------------------------------------------------------- | ------------------- |
+| Backend AI Engineer          | Bank for Agriculture and Agricultural Cooperatives (BAAC) | May 2026 – Present  |
+| Software Engineer            | Freewill Solutions                                        | Oct 2025 – Apr 2026 |
+| Research Assistant           | RMUTL Nan                                                 | Oct 2024 – Sep 2025 |
+| LLM Developer (Co-op/Intern) | BAAC HQ                                                   | Jun 2024 – Sep 2024 |
+| Teaching Assistant           | RMUTL Nan                                                 | Jun 2023 – Oct 2025 |
 
 ---
 
@@ -93,7 +93,7 @@ class JeerasakAnanta:
 <details>
 
   <summary>🤖 AI & Machine Learning</summary>
-  
+
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-FF6B35?style=for-the-badge&logo=langchain&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/Hugging_Face-FF6F61?style=for-the-badge&logo=huggingface&logoColor=white)
@@ -115,7 +115,7 @@ class JeerasakAnanta:
 <details>
 
   <summary>🎨 Frontend & UI</summary>
-  
+
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
@@ -166,12 +166,12 @@ class JeerasakAnanta:
 
 ## 📜 Certifications
 
-| Badge | Certification | Year |
-| ----- | ------------ | ---- |
-| ☁️ | AWS re/Start Graduate | 2025 |
-| 🧠 | Super AI Engineer — Season 4 | 2024 |
-| 🤖 | AI Beginner & AI Engineer (AIAT) | 2024 |
-| 🛡️ | SC-200: Microsoft Security Operations Analyst | 2024 |
+| Badge | Certification                                 | Year |
+| ----- | --------------------------------------------- | ---- |
+| ☁️    | AWS re/Start Graduate                         | 2025 |
+| 🧠    | Super AI Engineer — Season 4                  | 2024 |
+| 🤖    | AI Beginner & AI Engineer (AIAT)              | 2024 |
+| 🛡️    | SC-200: Microsoft Security Operations Analyst | 2024 |
 
 ---
 
