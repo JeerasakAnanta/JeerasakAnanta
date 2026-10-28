@@ -6,7 +6,10 @@
 
 Building production RAG chatbots, LLM automation and self-hosted infrastructure.
 
-[![Download CV](https://img.shields.io/badge/Download_CV-PDF-D14836?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://github.com/JeerasakAnanta/JeerasakAnanta/raw/main/docs/cv_jeerasak.pdf)
+[![Download CV](https://img.shields.io/badge/Download_CV-PDF_·_2_pages-D14836?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://github.com/JeerasakAnanta/JeerasakAnanta/raw/main/docs/cv_jeerasak.pdf)
+[![View CV](https://img.shields.io/badge/View_CV-Online-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white)](https://github.com/JeerasakAnanta/JeerasakAnanta/blob/main/docs/cv_jeerasak.pdf)
+
+<sub>Updated Oct 2026 · English · A4 · [LaTeX source](docs/cv_jeerasak.tex)</sub>
 
 [About](#-about-me) · [Experience](#-experience) · [Projects](#-featured-projects) · [Tech Stack](#%EF%B8%8F-tech-stack) · [Achievements](#-achievements) · [Contact](#-connect-with-me)
 
