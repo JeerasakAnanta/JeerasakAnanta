@@ -1,0 +1,203 @@
+%-------------------------------------------------------------
+% Jeerasak Ananta - CV (based on Jake's Resume template, MIT)
+% Compile (public, no phone):  pdflatex cv_jeerasak.tex
+% Compile (with phone):        pdflatex "\def\cvphone{<number>}\input{cv_jeerasak.tex}"
+% The phone number is never stored in this repository; see scripts/build-cv.sh.
+%-------------------------------------------------------------
+\documentclass[11pt]{article}
+
+\usepackage{latexsym}
+\usepackage[empty]{fullpage}
+\usepackage{titlesec}
+\usepackage{marvosym}
+\usepackage[usenames,dvipsnames]{color}
+\usepackage{verbatim}
+\usepackage{enumitem}
+\usepackage[hidelinks]{hyperref}
+\usepackage{fancyhdr}
+\usepackage[english]{babel}
+\usepackage{tabularx}
+\input{glyphtounicode}
+
+\pagestyle{fancy}
+\fancyhf{}
+\fancyfoot{}
+\renewcommand{\headrulewidth}{0pt}
+\renewcommand{\footrulewidth}{0pt}
+
+% A4 margins
+\usepackage[a4paper,top=0.5in,bottom=0.5in,left=0.55in,right=0.55in]{geometry}
+
+\urlstyle{same}
+\raggedbottom
+\raggedright
+\setlength{\tabcolsep}{0in}
+
+\titleformat{\section}{
+  \vspace{-4pt}\scshape\raggedright\large
+}{}{0em}{}[\color{black}\titlerule \vspace{-5pt}]
+
+\pdfgentounicode=1
+
+%---------- Custom commands ----------
+\newcommand{\resumeItem}[1]{\item\small{{#1 \vspace{-2pt}}}}
+
+\newcommand{\resumeSubheading}[4]{
+  \vspace{-2pt}\item
+    \begin{tabular*}{\linewidth}[t]{l@{\extracolsep{\fill}}r}
+      \textbf{#1} & #2 \\
+      \textit{\small#3} & \textit{\small #4} \\
+    \end{tabular*}\vspace{-7pt}
+}
+
+\newcommand{\resumeProjectHeading}[2]{
+    \item
+    \begin{tabular*}{\linewidth}{l@{\extracolsep{\fill}}r}
+      \small#1 & #2 \\
+    \end{tabular*}\vspace{-7pt}
+}
+
+\newcommand{\resumeStack}[1]{\vspace{1pt}\small{\textit{Stack:} #1}\vspace{-2pt}}
+
+\renewcommand\labelitemii{$\vcenter{\hbox{\tiny$\bullet$}}$}
+\newcommand{\resumeSubHeadingListStart}{\begin{itemize}[leftmargin=0.15in, label={}]}
+\newcommand{\resumeSubHeadingListEnd}{\end{itemize}}
+\newcommand{\resumeItemListStart}{\begin{itemize}[leftmargin=0.18in, itemsep=0pt]}
+\newcommand{\resumeItemListEnd}{\end{itemize}\vspace{-5pt}}
+
+%=============================================================
+\begin{document}
+
+%---------- HEADING ----------
+\begin{center}
+    \textbf{\Huge \scshape Jeerasak Ananta} \\ \vspace{2pt}
+    \small Backend AI Engineer \quad|\quad Bangkok, Thailand \\ \vspace{2pt}
+    \small \ifdefined\cvphone \cvphone\ $|$\ \fi
+    \href{mailto:jeerasakananta@gmail.com}{\underline{jeerasakananta@gmail.com}} $|$
+    \href{https://linkedin.com/in/jeerasakananta}{\underline{linkedin.com/in/jeerasakananta}} $|$
+    \href{https://github.com/JeerasakAnanta}{\underline{github.com/JeerasakAnanta}} $|$
+    \href{https://www.jeerasakananta.dev}{\underline{jeerasakananta.dev}}
+\end{center}
+
+%---------- SUMMARY ----------
+\section{Summary}
+\small{Backend AI Engineer with 3 years of hands-on experience building production RAG chatbots, LLM-powered automation, and
+internal enterprise systems in banking, healthcare, and HR. Strong in Python/FastAPI, LangChain/LangGraph, vector search (Qdrant),
+and GitLab CI/CD with Docker. Guest lecturer on RAG systems; B.Sc. Computer Science with GPA 3.97.}
+
+%---------- EXPERIENCE ----------
+\section{Experience}
+  \resumeSubHeadingListStart
+
+    \resumeSubheading
+      {Backend AI Engineer}{May 2026 -- Present}
+      {Bank for Agriculture and Agricultural Co-operatives (BAAC), Head Office}{Bangkok}
+      \resumeItemListStart
+        \resumeItem{Develop \textbf{BAAC Hermes}, an internal RAG chatbot (LangGraph, Qdrant, BGE-M3, Typhoon2, FastAPI); implement \textbf{RBAC} and \textbf{LLM guardrails} so answers respect document access rights}
+        \resumeItem{Build and maintain \textbf{OmniMail Gateway}, a centralized email service shared by multiple internal systems}
+        \resumeItem{Build \textbf{HR Engine API} (FastAPI, MongoDB/Beanie) with Docling-based PDF extraction for HR documents}
+        \resumeItem{Contribute to \textbf{HR Allocate}, a multi-step employee transfer and approval system (Next.js, Express, MongoDB) with audit logging and iAuthenX SSO, designed for PDPA compliance}
+        \resumeItem{Integrate an AI-based OCR service and OAuth 2.0 into the \textbf{Employee Welfare Reimbursement System}}
+        \resumeItem{Maintain \textbf{GitLab CI/CD} for several services: Docker builds, Harbor image vulnerability scanning, tag-triggered deployments on self-managed runners}
+        \resumeItem{Harden Express services (CORS and security headers) and refactor core request-management components}
+      \resumeItemListEnd
+      \resumeStack{Python, FastAPI, LangGraph, Qdrant, Next.js, Express, MongoDB, Docker, GitLab CI/CD, Harbor, OAuth 2.0/OIDC}
+
+    \resumeSubheading
+      {Software Engineer (Automation)}{Oct 2025 -- Apr 2026}
+      {Freewill Solutions Co., Ltd.}{Bangkok}
+      \resumeItemListStart
+        \resumeItem{Designed automated HR workflows with \textbf{n8n} and \textbf{Dify}, using LLMs to screen and rank candidates and cut manual screening time}
+        \resumeItem{Wrote JavaScript nodes connecting external APIs, webhooks, and business logic inside n8n}
+        \resumeItem{Built CI/CD pipelines for continuous deployment of automation workflows}
+        \resumeItem{Worked with HR teams to map bottlenecks and turn requirements into automated solutions}
+      \resumeItemListEnd
+      \resumeStack{n8n, Dify, JavaScript, LLM APIs, REST, Webhooks, CI/CD}
+
+    \resumeSubheading
+      {Developer (Research Assistant)}{Oct 2024 -- Sep 2025}
+      {Rajamangala University of Technology Lanna (RMUTL)}{Nan}
+      \resumeItemListStart
+        \resumeItem{Turned research outputs into working software, including a web platform based on ceramic-pattern research}
+        \resumeItem{Integrated LINE API for real-time communication and product exchange between buyers and sellers}
+      \resumeItemListEnd
+
+    \resumeSubheading
+      {LLM Developer (Co-op Internship)}{Jun 2024 -- Sep 2024}
+      {Bank for Agriculture and Agricultural Co-operatives (BAAC), Head Office}{Bangkok}
+      \resumeItemListStart
+        \resumeItem{Built a proof-of-concept RAG chatbot for the credit department answering financial-policy and loan questions}
+        \resumeItem{Developed FastAPI backend with LangChain + OpenAI; delivered to staff via LINE Messaging API}
+        \resumeItem{Fine-tuned language models on financial-domain data to improve answer relevance}
+      \resumeItemListEnd
+
+    \resumeSubheading
+      {Teaching Assistant (Part-time)}{Jun 2023 -- Oct 2025}
+      {Rajamangala University of Technology Lanna (RMUTL)}{Nan}
+      \resumeItemListStart
+        \resumeItem{Ran lab sessions in Programming, Web Development, Database, and Network/Linux ($\sim$2 days/week)}
+      \resumeItemListEnd
+
+  \resumeSubHeadingListEnd
+
+%---------- PROJECTS ----------
+\section{Projects}
+    \resumeSubHeadingListStart
+      \resumeProjectHeading
+          {\textbf{LannaFinChat -- AI Financial Assistant} $|$ \emph{Python, LangChain, Qdrant, Next.js, LINE API}}{2025}
+          \resumeItemListStart
+            \resumeItem{RAG chatbot for RMUTL Finance Department answering reimbursement and policy questions via LINE, with semantic search over policy documents}
+          \resumeItemListEnd
+      \resumeProjectHeading
+          {\textbf{NCD Public Health LINE Chatbot} $|$ \emph{FastAPI, LangChain, PostgreSQL, LINE Bot}}{2025}
+          \resumeItemListStart
+            \resumeItem{LINE bot letting community health volunteers at Nan Hospital record and update patient data, reducing paperwork in rural areas}
+          \resumeItemListEnd
+      \resumeProjectHeading
+          {\textbf{Customer Analysis Platform} $|$ \emph{Next.js, FastAPI, LangChain, OpenAI, PostgreSQL, LINE OA}}{2025}
+          \resumeItemListStart
+            \resumeItem{Analytics platform for SMEs with natural-language querying of sales data and insights pushed through LINE OA}
+          \resumeItemListEnd
+      \resumeProjectHeading
+          {\textbf{OCR Lottery Verification -- Red Cross Nan} $|$ \emph{FastAPI, EasyOCR, PostgreSQL}}{2024}
+          \resumeItemListStart
+            \resumeItem{Mobile web app verifying lottery tickets by camera OCR with manual-entry fallback and server-side cross-checking}
+          \resumeItemListEnd
+    \resumeSubHeadingListEnd
+
+%---------- EDUCATION ----------
+\section{Education}
+  \resumeSubHeadingListStart
+    \resumeSubheading
+      {Rajamangala University of Technology Lanna (RMUTL)}{Nan, Thailand}
+      {B.Sc. in Computer Science -- GPA 3.97}{Jun 2022 -- Oct 2025}
+  \resumeSubHeadingListEnd
+
+%---------- SKILLS ----------
+\section{Technical Skills}
+ \begin{itemize}[leftmargin=0.15in, label={}]
+    \small{\item{
+     \textbf{Languages}{: Python, JavaScript, TypeScript, Java, Bash} \\
+     \textbf{AI / LLM}{: LangChain, LangGraph, LlamaIndex, Hugging Face, Unsloth, Ollama, RAG, LLM fine-tuning, guardrails} \\
+     \textbf{Backend \& Frontend}{: FastAPI, Node.js/Express, REST APIs, Next.js, React, Tailwind CSS} \\
+     \textbf{Data}{: PostgreSQL, MySQL, MongoDB, Redis, Qdrant, MinIO, Apache Airflow} \\
+     \textbf{DevOps \& Infra}{: Docker, GitLab CI/CD, GitHub Actions, Jenkins, Harbor, NGINX, Terraform, k6, Linux} \\
+     \textbf{Cloud \& Self-hosted}{: AWS, DigitalOcean, Vercel, Cloudflare, Proxmox, Grafana} \\
+     \textbf{Automation}{: n8n, Dify}
+    }}
+ \end{itemize}
+
+%---------- CERTS & ACHIEVEMENTS ----------
+\section{Certifications \& Achievements}
+ \begin{itemize}[leftmargin=0.15in, label={}]
+    \small{\item{
+     \textbf{Certifications}{: AWS re/Start Graduate (2025); Super AI Engineer Season 4, AI Developer (2024);
+       AI Beginner \& AI Engineer, AIAT (2024); Microsoft SC-200 Security Operations Analyst (2024)} \\
+     \textbf{Awards}{: Winner, RMUTL Mini Hackathon; Winner, C/C++ Programming Competition (Nan);
+       Runner-up, C/C++ Programming Competition (Lampang); Participant, NSC 2023} \\
+     \textbf{Speaking}{: Guest lecturer, full-day training on RAG systems and LLM integration, AI Inventor Program (2024)} \\
+     \textbf{Languages}{: Thai (native), English (basic conversational)}
+    }}
+ \end{itemize}
+
+\end{document}
